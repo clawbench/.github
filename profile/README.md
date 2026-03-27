@@ -123,8 +123,12 @@ How it Works: Combines the strengths of both approaches. Automated scripts secur
 | Software Engineering | Code Refactoring | automated | Simulate a migration scenario by safely extracting hardcoded sensitive info into environment variables and updating manifests. |
 
 
-## 🚀 Coming Soon**The official ClawBench website and full interactive leaderboard are launching soon!** You will be able to experience dynamic data filtering, detailed model comparisons, and comprehensive task breakdown reports.
+---
 
+🚀 **Now Live!** Visit the official **ClawBench** website to explore our complete interactive leaderboard! You can now experience dynamic data filtering, detailed model comparisons, and comprehensive task breakdown reports.
 
-📧 **Contact Us**: [clawbench@gmail.com]
-🌐 **ClawBench**：[clawbenchlabs.com](https://clawbench.com)
+<br>
+
+📧 **Contact Us:** [clawbench@gmail.com](mailto:clawbench@gmail.com) &nbsp;|&nbsp;🌐 **Website:** [clawbenchlabs.com](https://clawbenchlabs.com)
+
+---
