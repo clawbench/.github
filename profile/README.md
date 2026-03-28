@@ -129,6 +129,6 @@ How it Works: Combines the strengths of both approaches. Automated scripts secur
 
 <br>
 
-📧 **Contact Us:** [clawbench@gmail.com](mailto:clawbench@gmail.com)  &nbsp;|&nbsp; 🌐 **Website:** [clawbenchlabs.com](https://clawbenchlabs.com)
+📧 **Contact Us:** [clawbenchlabs@gmail.com](mailto:clawbench@gmail.com)  &nbsp;|&nbsp; 🌐 **Website:** [clawbenchlabs.com](https://clawbenchlabs.com)
 
 ---
