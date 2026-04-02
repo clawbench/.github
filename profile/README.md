@@ -10,9 +10,9 @@ Unlike single-dimensional Q&A tests, ClawBench intentionally embeds real-world e
 ## 🏆 Latest LLM Leaderboard
 
 
-![ClawBench Leaderboard](clawbench-leaderboard.png)
+![ClawBench Leaderboard](clawbench-leaderboard-0402.png)
 
-![CLAW SCORE vs. COST](clawbench-graph-cos-0402.png)
+![CLAW SCORE vs. COST](clawbench-graph-cost-0402.png)
 ![CLAW SCORE vs. SPEED](clawbench-graph-speed-0402.png)
 
 
